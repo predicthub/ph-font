@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   inkscape:export-filename="/home/nicolas/Documents/predicthub/docs/logo-nn.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="icons.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4207"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4199"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4195"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4191"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4207-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4207-7"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dedede"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="46.564745"
+     inkscape:cy="216.25339"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="logo"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 5,192 c -2.77,0 -5,2.23 -5,5 l 0,25 6.3510742,0 A 6,6 0 0 1 12,218 a 6,6 0 0 1 5.649902,4 l 8.701173,0 A 6,6 0 0 1 30,218.3501 L 30,216 c 0,-1.1463 -0.002,-2.1807 -0.14795,-3.0815 -0.142368,-0.8786 -0.446255,-1.6174 -0.84619,-2.0567 -0.276243,-0.3034 -0.688098,-0.5573 -1.143555,-0.6909 C 27.41163,210.0387 26.78017,210 26,210 l -25.9506836,0 0,-4 L 26,206 c 0.85135,0 1.872907,0.01 2.987792,0.3325 1.110098,0.3256 2.153998,0.9334 2.976075,1.8364 1.130431,1.2418 1.615623,2.7444 1.836913,4.1099 C 34.01845,213.622 34,214.873 34,216 l 0,2.3511 A 6,6 0 0 1 37.649903,222 l 8.701172,0 A 6,6 0 0 1 52,218 a 6,6 0 0 1 5.649903,4 L 64,222 64,197 c 0,-2.77 -2.23,-5 -5,-5 l -54,0 z m -5,34 0,12 6,0 c 0.7801687,0 1.4116342,-0.038 1.8623047,-0.1704 0.4554581,-0.1336 0.8673113,-0.3875 1.1435548,-0.6909 0.3999385,-0.4393 0.703824,-1.1782 0.8461913,-2.0567 C 9.99805,234.1812 10,233.1463 10,232 l 0,-2.3511 A 6,6 0 0 1 6.3500977,226 L 0,226 Z m 17.648926,0 A 6,6 0 0 1 14,229.6499 L 14,232 c 0,1.127 0.01845,2.3785 -0.199219,3.7217 -0.221292,1.3655 -0.706486,2.8681 -1.836914,4.1098 -0.822078,0.9031 -1.865976,1.5108 -2.976074,1.8365 C 7.872907,241.995 6.8513497,242 6,242 l -6,0 0,9 c 0,2.77 2.23,5 5,5 l 45,0 0,-26.3511 A 6,6 0 0 1 46.350097,226 l -8.701172,0 A 6,6 0 0 1 32,230 6,6 0 0 1 26.350097,226 l -8.701171,0 z m 39.999999,0 A 6,6 0 0 1 54,229.6499 L 54,256 l 5,0 c 2.77,0 5,-2.23 5,-5 l 0,-25 -6.351075,0 z"
+       id="rect4138"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5 0 C 2.23 0 0 2.23 0 5 L 0 30 L 0 34 L 0 46 L 0 50 L 0 59 C 0 61.77 2.23 64 5 64 L 50 64 L 54 64 L 59 64 C 61.77 64 64 61.77 64 59 L 64 34 L 64 30 L 64 5 C 64 2.23 61.77 0 59 0 L 5 0 z M 5 2 L 59 2 C 60.662 2 62 3.338 62 5 L 62 30 L 57.650391 30 A 5.9999997 5.9999997 0 0 0 52 26 A 5.9999997 5.9999997 0 0 0 46.351562 30 L 37.650391 30 A 5.9999997 5.9999997 0 0 0 34 26.351562 L 34 24 C 34 22.873 34.018401 21.622497 33.800781 20.279297 C 33.579491 18.913797 33.095274 17.409769 31.964844 16.167969 C 31.142764 15.264969 30.098371 14.657631 28.988281 14.332031 C 27.873391 14.005031 26.85135 14 26 14 L 2 14 L 2 5 C 2 3.338 3.338 2 5 2 z M 2 18 L 26 18 C 26.78017 18 27.412601 18.039975 27.863281 18.171875 C 28.318741 18.305475 28.729619 18.557928 29.005859 18.861328 C 29.405799 19.300628 29.709203 20.039369 29.851562 20.917969 C 29.997562 21.818769 30 22.8537 30 24 L 30 26.349609 A 5.9999997 5.9999997 0 0 0 26.351562 30 L 17.650391 30 A 5.9999997 5.9999997 0 0 0 12 26 A 5.9999997 5.9999997 0 0 0 6.3515625 30 L 2 30 L 2 18 z M 2 34 L 6.3496094 34 A 5.9999997 5.9999997 0 0 0 10 37.648438 L 10 40 C 10 41.1463 9.9975125 42.181231 9.8515625 43.082031 C 9.7091925 43.960531 9.4057994 44.699272 9.0058594 45.138672 C 8.7296194 45.442072 8.3167881 45.696478 7.8613281 45.830078 C 7.4106581 45.962278 6.78017 46 6 46 L 2 46 L 2 34 z M 17.648438 34 L 26.349609 34 A 5.9999997 5.9999997 0 0 0 32 38 A 5.9999997 5.9999997 0 0 0 37.648438 34 L 46.349609 34 A 5.9999997 5.9999997 0 0 0 50 37.648438 L 50 62 L 5 62 C 3.338 62 2 60.662 2 59 L 2 50 L 6 50 C 6.85135 50 7.8733913 49.999969 8.9882812 49.667969 C 10.098381 49.342369 11.140821 48.735131 11.962891 47.832031 C 13.093331 46.590331 13.579491 45.088156 13.800781 43.722656 C 14.018451 42.379456 14 41.127 14 40 L 14 37.650391 A 5.9999997 5.9999997 0 0 0 17.648438 34 z M 57.648438 34 L 62 34 L 62 59 C 62 60.662 60.662 62 59 62 L 54 62 L 54 37.650391 A 5.9999997 5.9999997 0 0 0 57.648438 34 z "
+       id="rect6445" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="logo-inv" />
+</svg>
